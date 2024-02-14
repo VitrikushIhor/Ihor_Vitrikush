@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [1](1)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kseroks.vercel.app/)
 
 - 💬 Ask me about **MEARN,MEAN**
 
