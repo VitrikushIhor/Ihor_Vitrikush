@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kseroks.vercel.app/)
 
-- 💬 Ask me about **MEARN,MEAN**
-
 - 📫 How to reach me **vitrikushihor0101@gmail.com**
 
 - ⚡ Fun fact **I am a funny person**
